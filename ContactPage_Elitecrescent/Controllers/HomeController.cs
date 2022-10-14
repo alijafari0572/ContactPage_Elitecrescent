@@ -33,9 +33,5 @@ namespace ContactPage_Elitecrescent.Controllers
         {
             return View();
         }
-        public IActionResult Contact1()
-        {
-            return View();
-        }
     }
 }

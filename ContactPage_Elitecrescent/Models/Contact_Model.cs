@@ -5,7 +5,6 @@ namespace ContactPage_Elitecrescent.Models
 {
     public class Contact_Model
     {
-        public int Id { get; set; }
         [Required]
         public string FullName { get; set; }
         [Required]
