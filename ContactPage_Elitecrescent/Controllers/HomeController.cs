@@ -33,5 +33,14 @@ namespace ContactPage_Elitecrescent.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Contact(Contact_Model contactModel)
+        {
+            if (ModelState.IsValid)
+            {
+
+            }
+            return View();
+        }
     }
 }
