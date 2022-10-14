@@ -28,5 +28,14 @@ namespace ContactPage_Elitecrescent.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
+        public IActionResult Contact1()
+        {
+            return View();
+        }
     }
 }
