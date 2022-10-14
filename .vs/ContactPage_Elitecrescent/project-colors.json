@@ -5,7 +5,17 @@
       "ProjectGuid": "f8f0ebcf-b8e1-40fa-89a3-1de28521f387",
       "DisplayName": "ContactPage_Elitecrescent",
       "ColorIndex": 0
+    },
+    "b5712d97-40f7-4484-935f-d72cb3128a63": {
+      "ProjectGuid": "b5712d97-40f7-4484-935f-d72cb3128a63",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "ab723791-db13-48e6-99b1-b8fd00646ff5": {
+      "ProjectGuid": "ab723791-db13-48e6-99b1-b8fd00646ff5",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
