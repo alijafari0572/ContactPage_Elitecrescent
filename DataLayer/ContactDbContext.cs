@@ -2,9 +2,9 @@
 using Entities;
 namespace DataLayer
 {
-    public class ConectDbContext:DbContext
+    public class ContactDbContext:DbContext
     {
-        public ConectDbContext( DbContextOptions options)
+        public ContactDbContext( DbContextOptions options)
         : base(options)
         {
             

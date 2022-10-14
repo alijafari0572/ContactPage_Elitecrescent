@@ -1,7 +1,14 @@
+using DataLayer;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ContactDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("WebApiDbContextConnection"));
+});
 
 var app = builder.Build();
 
