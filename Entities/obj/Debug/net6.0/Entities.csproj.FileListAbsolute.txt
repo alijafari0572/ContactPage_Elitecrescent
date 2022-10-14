@@ -1,0 +1,12 @@
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\bin\Debug\net6.0\Entities.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\bin\Debug\net6.0\ref\Entities.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\bin\Debug\net6.0\Entities.pdb
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\ref\Entities.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\Entities\obj\Debug\net6.0\Entities.pdb

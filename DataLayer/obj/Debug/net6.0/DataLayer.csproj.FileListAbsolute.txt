@@ -1,0 +1,15 @@
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\DataLayer.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\ref\DataLayer.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\Entities.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\Entities.pdb
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.pdb

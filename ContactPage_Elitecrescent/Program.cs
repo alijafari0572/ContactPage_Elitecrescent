@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ContactDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("WebApiDbContextConnection"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ContactDbContextConnection"));
 });
 
 var app = builder.Build();

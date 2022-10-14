@@ -36,6 +36,9 @@
             "projectReferences": {
               "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\DataLayer\\DataLayer.csproj": {
                 "projectPath": "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\DataLayer\\DataLayer.csproj"
+              },
+              "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\Entities\\Entities.csproj"
               }
             }
           }

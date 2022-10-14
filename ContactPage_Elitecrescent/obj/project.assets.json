@@ -1801,6 +1801,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "DataLayer >= 1.0.0",
+      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9"
     ]
@@ -1841,6 +1842,9 @@
           "projectReferences": {
             "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\DataLayer\\DataLayer.csproj": {
               "projectPath": "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\DataLayer\\DataLayer.csproj"
+            },
+            "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\Entities\\Entities.csproj"
             }
           }
         }
