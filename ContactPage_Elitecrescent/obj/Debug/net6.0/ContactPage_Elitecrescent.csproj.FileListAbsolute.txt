@@ -61,3 +61,5 @@ E:\دوره توسعه گر\ContactPage_Elitecrescent\ContactPage_Elitecrescent\
 E:\دوره توسعه گر\ContactPage_Elitecrescent\ContactPage_Elitecrescent\bin\Debug\net6.0\DataLayer.pdb
 E:\دوره توسعه گر\ContactPage_Elitecrescent\ContactPage_Elitecrescent\bin\Debug\net6.0\Entities.pdb
 E:\دوره توسعه گر\ContactPage_Elitecrescent\ContactPage_Elitecrescent\obj\Debug\net6.0\ContactPage_Elitecrescent.csproj.CopyComplete
+E:\دوره توسعه گر\ContactPage_Elitecrescent\ContactPage_Elitecrescent\bin\Debug\net6.0\Humanizer.dll
+E:\دوره توسعه گر\ContactPage_Elitecrescent\ContactPage_Elitecrescent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

@@ -13,3 +13,5 @@ E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0
 E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.dll
 E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
 E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\bin\Debug\net6.0\DataLayer.runtimeconfig.json
+E:\دوره توسعه گر\ContactPage_Elitecrescent\DataLayer\obj\Debug\net6.0\DataLayer.genruntimeconfig.cache
