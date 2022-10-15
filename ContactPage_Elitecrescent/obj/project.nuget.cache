@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xcCRj1hbi8aG9J+RRMilyjE4pwuRLH/5jT9Sx6OedW1uv0oNVOtBvqu1GNvOZyK5c5tZmzEL8QRbWnx67lu7tg==",
+  "dgSpecHash": "+LP8vv2GESiF79adq+FMyw3oKGeV8OEYv0SR7sDoXFXP67KwiJwBnlbbh9wQ4+KazDqdZuAjx1IqOP1l69lcnw==",
   "success": true,
   "projectFilePath": "E:\\دوره توسعه گر\\ContactPage_Elitecrescent\\ContactPage_Elitecrescent\\ContactPage_Elitecrescent.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\emailvalidation\\1.0.8\\emailvalidation.1.0.8.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
@@ -106,6 +107,8 @@
     "C:\\Users\\Ali\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\system.componentmodel.annotations\\4.3.0\\system.componentmodel.annotations.4.3.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.composition\\1.0.31\\system.composition.1.0.31.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.composition.attributedmodel\\1.0.31\\system.composition.attributedmodel.1.0.31.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\system.composition.convention\\1.0.31\\system.composition.convention.1.0.31.nupkg.sha512",
