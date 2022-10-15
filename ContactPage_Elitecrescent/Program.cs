@@ -1,3 +1,4 @@
+using ContactPage_Elitecrescent.Repositories;
 using DataLayer;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,7 +10,7 @@ builder.Services.AddDbContext<ContactDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("ContactDbContextConnection"));
 });
-
+builder.Services.AddTransient<ICheckEmail, CheckEmail>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

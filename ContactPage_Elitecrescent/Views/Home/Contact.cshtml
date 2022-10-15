@@ -3,7 +3,10 @@
 @{
     ViewData["Title"] = "Create";
 }
-
+@if (TempData["message"] != null)
+{
+    <script>alert('@TempData["message"]');</script>
+}
 
 <h1>Do you have any question?</h1>
 

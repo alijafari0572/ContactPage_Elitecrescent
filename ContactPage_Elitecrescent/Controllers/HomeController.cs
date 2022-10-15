@@ -1,6 +1,7 @@
 ﻿using ContactPage_Elitecrescent.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using ContactPage_Elitecrescent.Repositories;
 using DataLayer;
 using Entities;
 
@@ -10,11 +11,14 @@ namespace ContactPage_Elitecrescent.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly ContactDbContext _context;
+        private readonly ICheckEmail _checkEmail;
 
-        public HomeController(ILogger<HomeController> logger, ContactDbContext context)
+
+        public HomeController(ILogger<HomeController> logger, ContactDbContext context, ICheckEmail checkEmail)
         {
             _logger = logger;
             _context = context;
+            _checkEmail = checkEmail;
         }
 
         public IActionResult Index()
@@ -42,6 +46,11 @@ namespace ContactPage_Elitecrescent.Controllers
         {
             if (ModelState.IsValid)
             {
+                if (!_checkEmail.CheckValidEmail(contactModel))
+                {
+                    TempData["message"] = "Email is not valid";
+                    return View(contactModel);
+                }
                 _context.Contacts.Add(new Contact()
                 {
                     FullName = contactModel.FullName,

@@ -9,6 +9,7 @@
       "ContactPage_Elitecrescent/1.0.0": {
         "dependencies": {
           "DataLayer": "1.0.0",
+          "EmailValidation": "1.0.8",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.9",
           "Microsoft.EntityFrameworkCore.Design": "6.0.9",
@@ -20,6 +21,17 @@
         },
         "runtime": {
           "ContactPage_Elitecrescent.dll": {}
+        }
+      },
+      "EmailValidation/1.0.8": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.3.0"
+        },
+        "runtime": {
+          "lib/net6.0/EmailValidation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.8.0"
+          }
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -1529,6 +1541,26 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
+      "System.ComponentModel/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.ComponentModel.Annotations/4.3.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.ComponentModel": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.Linq": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Extensions": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Text.RegularExpressions": "4.3.0",
+          "System.Threading": "4.3.0"
+        }
+      },
       "System.Composition/1.0.31": {
         "dependencies": {
           "System.Composition.AttributedModel": "1.0.31",
@@ -2291,6 +2323,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "EmailValidation/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hmCIsfPMK82Pvlab15aB7BRO3Au4H6+hSutCBJApRJ3x/pNU1CVN47kgsJ1FpsSnBBRI23YpBxK2uQqXV32tXQ==",
+      "path": "emailvalidation/1.0.8",
+      "hashPath": "emailvalidation.1.0.8.nupkg.sha512"
+    },
     "Humanizer.Core/2.8.26": {
       "type": "package",
       "serviceable": true,
@@ -3004,6 +3043,20 @@
       "sha512": "sha512-l4zZJ1WU2hqpQQHXz1rvC3etVZN+2DLmQMO79FhOTZHMn8tDRr+WU287sbomD0BETlmKDn0ygUgVy9k5xkkJdA==",
       "path": "system.collections.immutable/6.0.0",
       "hashPath": "system.collections.immutable.6.0.0.nupkg.sha512"
+    },
+    "System.ComponentModel/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
+      "path": "system.componentmodel/4.3.0",
+      "hashPath": "system.componentmodel.4.3.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SY2RLItHt43rd8J9D8M8e8NM4m+9WLN2uUd9G0n1I4hj/7w+v3pzK6ZBjexlG1/2xvLKQsqir3UGVSyBTXMLWA==",
+      "path": "system.componentmodel.annotations/4.3.0",
+      "hashPath": "system.componentmodel.annotations.4.3.0.nupkg.sha512"
     },
     "System.Composition/1.0.31": {
       "type": "package",
